@@ -1,0 +1,511 @@
+﻿Lang_ID,Indicator,Indicator-Note,Indicator_ID,Target
+1,GDP growth,% - 5 Year average,1,4%
+1,Unemployment rates,15 - 64 Years,2,<12%
+1,Employment growth,% from previous year,3,2.5% per annum
+1,Exports growth,% - current prices,4,>10% per annum
+1,Credit rating,S&P,5,BBB
+1,Foreign Direct Investment,% of GDP,6,>5%
+1,Education,Pisa Scores,7,Top Half
+1,STEM graduates,per 1000 population,8,10
+1,Skills of Current Workforce,score from 1-100,9,45
+1,Investments,% of GDP,10,Top Half
+1,Research and Development,% of GDP,11,1st Quarter
+1,Democratic freedom,score from 1 to 7,12,Top Half
+1,Rule of law,score from 0 to 1,13,Top Half
+1,Global competitiveness index,Rank,14,Top Half
+1,Environmental performance index,Rank,15,Top Half
+2,Стапка на реален пораст на БДП,% - просек од 5 години,1,"4%, 1st QTL"
+2,Стапка на невработеност,15 - 64 години,2,"<12%, 3rd QTL"
+2,Раст на вработеноста,% од претходната година,3,2.5% per annum
+2,Раст на извозот,% - тековни цени,4,>10% per annum
+2,Кредитен рејтинг,S&P,5,"BBB, 1st QTL"
+2,Странски директни инвестици,% од БДП,6,">5%, 1st QTL"
+2,Квалитет на образование,Резултати PISA,7,Прва половина
+2,STEM дипломирани студенти,на 1000 население,8,10
+2,Вештини на тековната работна сила,резултат од 1-100,9,45
+2,Бруто инвестиции,% од БДП,10,Прва половина
+2,Истражување и развој,% од БДП,11,1st QTL
+2,Демократска слобода,резултат од 1 до 7,12,Прва половина
+2,Владеење на правото,резултат од 0 до 1,13,Прва половина
+2,Глобален индекс на конкуренција,Ранг,14,Прва половина
+2,Индекс на еколошки перформанси,Ранг,15,Прва половина
+3,Rritja e PBB-së,% - 5 vjet mesatare,1,"4%, 1st QTL"
+3,Shkalla e papunësisë,15 - 64 Vjet,2,"<12%, 3rd QTL"
+3,Rritja e punësimit,% nga viti i kaluar,3,2.5% per annum
+3,Eksportet rriten,% - çmimet aktuale,4,>10% per annum
+3,Klasifikimin e kredive,S&P,5,"BBB, 1st QTL"
+3,IHD,% e PBB-së,6,">5%, 1st QTL"
+3,Arsimi,Rezultatet e Pizës,7,Gjysma e parë
+3,Të diplomuarit e STEM-it,për 1000 popullsi,8,10
+3,Aftësitë e fuqisë punëtore aktuale,shënojnë nga 1-100,9,45
+3,Investimet,% e PBB-së,10,Gjysma e parë
+3,R&D,% e PBB-së,11,1st QTL
+3,Liria demokratike,shënoni nga 1 në 7,12,Gjysma e parë
+3,Rregull i ligjit,shënoni nga 0 në 1,13,Gjysma e parë
+3,Indeksi global i konkurrencës,Gradë,14,Gjysma e parë
+3,Indeksi i performancës mjedisore,Gradë,15,Gjysma e parë
+4,Раст БДП-а,% - петогодишњи просек,1,"4%, 1st QTL"
+4,Стопе незапослености,15 - 64 године,2,"<12%, 3rd QTL"
+4,Раст запослености,% у односу на претходну годину,3,2.5% per annum
+4,Извоз расте,% - тренутне цене,4,>10% per annum
+4,Кредитни рејтинг,S&P,5,"BBB, 1st QTL"
+4,СДИ,% БДП-а,6,">5%, 1st QTL"
+4,Oбразовање,Резултати PISA,7,Горња половина
+4,Дипломци СТЕМ-а,на 1000 становника,8,10
+4,Вештине тренутне радне снаге,скор од 1-100,9,45
+4,Инвестиције,% БДП-а,10,Горња половина
+4,Р&Д,% БДП-а,11,1st QTL
+4,Демократска слобода,оцена од 1 до 7,12,Горња половина
+4,Владавина права,оцена од 0 до 1,13,Горња половина
+4,Индекс глобалне конкурентности,Ранк,14,Горња половина
+4,Индекс еколошких перформанси,Ранк,15,Горња половина
+5,GSYİH büyümesi,% - 5 Yıllık ortalama,1,"4%, 1st QTL"
+5,İşsizlik oranları,15 - 64 Yaş,2,"<12%, 3rd QTL"
+5,İstihdam artışı,önceki yıla göre%,3,2.5% per annum
+5,İhracat arttı,% - şimdiki fiyatlar,4,>10% per annum
+5,Kredi notu,S&P,5,"BBB, 1st QTL"
+5,DYY,GSYİH yüzdesi,6,">5%, 1st QTL"
+5,Eğitim,Pisa Skorları,7,İlk yarı
+5,STEM mezunları,1000 nüfus başına,8,10
+5,Mevcut İşgücünün Becerileri,1-100 arası puan,9,45
+5,Yatırımlar,GSYİH yüzdesi,10,İlk yarı
+5,Ar-Ge,GSYİH yüzdesi,11,1st QTL
+5,Demokratik özgürlük,1'den 7'ye kadar puan,12,İlk yarı
+5,Hukuk kuralı,0 ile 1 arası puan,13,İlk yarı
+5,Küresel rekabet gücü endeksi,Sıra,14,İlk yarı
+5,Çevresel performans indeksi,Sıra,15,İlk yarı
+6,Αύξηση του ΑΕΠ,Μέσος όρος% - 5 ετών,1,"4%, 1st QTL"
+6,Ποσοστά ανεργίας,15 - 64 χρόνια,2,"<12%, 3rd QTL"
+6,Αύξηση της απασχόλησης,% από το προηγούμενο έτος,3,2.5% per annum
+6,Οι εξαγωγές αυξάνονται,% - τωρινές τιμές,4,>10% per annum
+6,Αξιολόγησης της πιστοληπτικής ικανότητας,S&P,5,"BBB, 1st QTL"
+6,ΑΞΕ,% του ΑΕΠ,6,">5%, 1st QTL"
+6,Εκπαίδευση,Βαθμολογία Πίζας,7,Πρώτο μισό
+6,Πτυχιούχοι STEM,ανά 1000 πληθυσμό,8,10
+6,Δεξιότητες Τρέχοντος Εργατικού Δυναμικού,σκορ από 1-100,9,45
+6,Επενδύσεις,% του ΑΕΠ,10,Πρώτο μισό
+6,Ε & Α,% του ΑΕΠ,11,1st QTL
+6,Δημοκρατική ελευθερία,σκορ 1 έως 7,12,Πρώτο μισό
+6,Κανόνας δικαίου,σκορ από 0 έως 1,13,Πρώτο μισό
+6,Παγκόσμιος δείκτης ανταγωνιστικότητας,Τάξη,14,Πρώτο μισό
+6,Δείκτης περιβαλλοντικών επιδόσεων,Τάξη,15,Πρώτο μισό
+7,GDP-növekedés,% - 5 éves átlag,1,"4%, 1st QTL"
+7,Munkanélküliségi ráta,15 - 64 év,2,"<12%, 3rd QTL"
+7,A foglalkoztatás növekedése,% az előző évhez képest,3,2.5% per annum
+7,Az export nőtt,% - jelenlegi árak,4,>10% per annum
+7,Hitelminősítő,S&P,5,"BBB, 1st QTL"
+7,FDI,a GDP% -a,6,">5%, 1st QTL"
+7,Oktatás,Pisa eredmények,7,Első fél
+7,STEM diplomások,1000 lakosra jut,8,10
+7,A jelenlegi munkaerő készségei,pontszám 1-100,9,45
+7,Beruházások,a GDP% -a,10,Első fél
+7,K + F,a GDP% -a,11,1st QTL
+7,Demokratikus szabadság,pontszám 1-től 7-ig,12,Első fél
+7,Jogállamiság,pontszám 0-tól 1-ig,13,Első fél
+7,Globális versenyképességi index,Rang,14,Első fél
+7,Környezeti teljesítmény index,Rang,15,Első fél
+8,BIP-Wachstum,% - 5-Jahres-Durchschnitt,1,"4%, 1st QTL"
+8,Arbeitslosenquote,15 - 64 Jahre,2,"<12%, 3rd QTL"
+8,Beschäftigungswachstum,% gegenüber dem Vorjahr,3,2.5% per annum
+8,Exporte wachsen,% - aktuelle Preise,4,>10% per annum
+8,Kreditbeurteilung,S&P,5,"BBB, 1st QTL"
+8,Direktinvestitionen,% des BIP,6,">5%, 1st QTL"
+8,Bildung,Pisa Scores,7,Erste Hälfte
+8,MINT-Absolventen,pro 1000 Einwohner,8,10
+8,Fähigkeiten der aktuellen Belegschaft,Punktzahl von 1-100,9,45
+8,Investitionen,% des BIP,10,Erste Hälfte
+8,F & E.,% des BIP,11,1st QTL
+8,Demokratische Freiheit,Punktzahl von 1 bis 7,12,Erste Hälfte
+8,Rechtsstaatlichkeit,Punktzahl von 0 bis 1,13,Erste Hälfte
+8,Globaler Wettbewerbsindex,Rang,14,Erste Hälfte
+8,Umweltleistungsindex,Rang,15,Erste Hälfte
+9,Рост ВВП,% - в среднем за 5 лет,1,"4%, 1st QTL"
+9,Уровень безработицы,15 - 64 года,2,"<12%, 3rd QTL"
+9,Рост занятости,% к предыдущему году,3,2.5% per annum
+9,Рост экспорта,% - текущие цены,4,>10% per annum
+9,Кредитный рейтинг,S&P,5,"BBB, 1st QTL"
+9,ПИИ,% ВВП,6,">5%, 1st QTL"
+9,Образование,Результаты PISA,7,Первая половина
+9,Выпускники STEM,на 1000 населения,8,10
+9,Навыки нынешней рабочей силы,оценка от 1 до 100,9,45
+9,Инвестиции,% ВВП,10,Первая половина
+9,НИОКР,% ВВП,11,1st QTL
+9,Демократическая свобода,оценка от 1 до 7,12,Первая половина
+9,Верховенство закона,оценка от 0 до 1,13,Первая половина
+9,Индекс глобальной конкурентоспособности,Ранг,14,Первая половина
+9,Индекс экологической эффективности,Ранг,15,Первая половина
+10,Ръст на БВП,% - средно за 5 години,1,"0,04"
+10,Нива на безработица,15 - 64 години,2,<12%
+10,Ръст на заетостта,% от предходната година,3,"2,5% годишно"
+10,Ръст на износа,% - текущи цени,4,> 10% годишно
+10,Кредитен рейтинг,S&P,5,BBB
+10,Преки чуждестранни инвестиции,% от БВП,6,> 5%
+10,Образование,Резултати от Пиза,7,Горната половина
+10,Завършилите STEM,на 1000 население,8,10
+10,Умения на настоящата работна сила,резултат от 1-100,9,45
+10,Инвестиции,% от БВП,10,Горната половина
+10,Изследвания и развитие,% от БВП,11,1-ва четвърт
+10,Демократична свобода,резултат от 1 до 7,12,Горната половина
+10,Върховенство на закона,резултат от 0 до 1,13,Горната половина
+10,Индекс на глобалната конкурентоспособност,Ранг,14,Горната половина
+10,Индекс на екологичните показатели,Ранг,15,Горната половина
+11,Rast BDP-a,% - 5-godišnji prosjek,1,"0,04"
+11,Stope nezaposlenosti,15 - 64 godine,2,<12%
+11,Rast zaposlenosti,% u odnosu na prethodnu godinu,3,"2,5% godišnje"
+11,Rast izvoza,% - trenutne cijene,4,> 10% godišnje
+11,Kreditni rejting,S&P,5,BBB
+11,Izravna strana ulaganja,% BDP-a,6,> 5%
+11,Obrazovanje,Rezultati u Pisi,7,Gornja polovica
+11,Diplomirani studenti STEM-a,na 1000 stanovnika,8,10
+11,Vještine trenutne radne snage,rezultat od 1-100,9,45
+11,Ulaganja,% BDP-a,10,Gornja polovica
+11,Istraživanje i razvoj,% BDP-a,11,1. četvrtina
+11,Demokratska sloboda,rezultat od 1 do 7,12,Gornja polovica
+11,Vladavina zakona,rezultat od 0 do 1,13,Gornja polovica
+11,Indeks globalne konkurentnosti,Rang,14,Gornja polovica
+11,Indeks ekološke učinkovitosti,Rang,15,Gornja polovica
+12,Creșterea PIB-ului,% - medie pe 5 ani,1,"0,04"
+12,Ratele șomajului,15 - 64 de ani,2,<12%
+12,Creșterea ocupării forței de muncă,% față de anul precedent,3,"2,5% pe an"
+12,Creșterea exporturilor,% - prețuri curente,4,> 10% pe an
+12,Rating de credit,S&P,5,BBB
+12,Investițiile străine directe,% din PIB,6,> 5%
+12,Educaţie,Scorurile din Pisa,7,Jumătatea de sus
+12,Absolvenți STEM,la 1000 de locuitori,8,10
+12,Abilități ale forței de muncă actuale,scor de la 1-100,9,45
+12,Investiții,% din PIB,10,Jumătatea de sus
+12,Cercetare și dezvoltare,% din PIB,11,Primul trimestru
+12,Libertatea democratică,scor de la 1 la 7,12,Jumătatea de sus
+12,Regula legii,scor de la 0 la 1,13,Jumătatea de sus
+12,Indicele competitivității globale,Rang,14,Jumătatea de sus
+12,Indicele de performanță de mediu,Rang,15,Jumătatea de sus
+13,Rast HDP,% - priemer za 5 rokov,1,"0,04"
+13,Miera nezamestnanosti,15 - 64 rokov,2,<12%
+13,Rast zamestnanosti,% z predchádzajúceho roku,3,"2,5% ročne"
+13,Rast vývozu,% - súčasné ceny,4,> 10% ročne
+13,Úverový rating,S&P,5,BBB
+13,Priame zahraničné investície,% HDP,6,> 5%
+13,Vzdelávanie,Skóre v Pise,7,Horná polovica
+13,Absolventi STEM,na 1 000 obyvateľov,8,10
+13,Zručnosti súčasnej pracovnej sily,skóre od 1-100,9,45
+13,Investície,% HDP,10,Horná polovica
+13,Výskum a vývoj,% HDP,11,1. štvrťrok
+13,Demokratická sloboda,skóre od 1 do 7,12,Horná polovica
+13,Pravidlo zákona,skóre od 0 do 1,13,Horná polovica
+13,Globálny index konkurencieschopnosti,Poradie,14,Horná polovica
+13,Index environmentálneho správania,Poradie,15,Horná polovica
+14,Růst HDP,% - průměr za 5 let,1,"0,04"
+14,Míra nezaměstnanosti,15 - 64 let,2,<12%
+14,Růst zaměstnanosti,% z předchozího roku,3,"2,5% ročně"
+14,Růst vývozu,% - aktuální ceny,4,> 10% ročně
+14,Úvěrový rating,S&P,5,BBB
+14,Přímé zahraniční investice,% HDP,6,> 5%
+14,Vzdělání,Skóre v Pise,7,Horní polovina
+14,Absolventi STEM,na 1000 obyvatel,8,10
+14,Dovednosti současné pracovní síly,skóre od 1 do 100,9,45
+14,Investice,% HDP,10,Horní polovina
+14,Výzkum a vývoj,% HDP,11,1. čtvrtletí
+14,Demokratická svoboda,skóre od 1 do 7,12,Horní polovina
+14,Právní stát,skóre od 0 do 1,13,Horní polovina
+14,Globální index konkurenceschopnosti,Hodnost,14,Horní polovina
+14,Index vlivu na životní prostředí,Hodnost,15,Horní polovina
+15,Wzrost PKB,% - średnia z 5 lat,1,"0,04"
+15,Stopy bezrobocia,15-64 lata,2,<12%
+15,Wzrost zatrudnienia,% z poprzedniego roku,3,"2,5% rocznie"
+15,Wzrost eksportu,% - aktualne ceny,4,> 10% rocznie
+15,Rating kredytowy,S&P,5,BBB
+15,Bezpośrednie inwestycje zagraniczne,% PKB,6,> 5%
+15,Edukacja,Pisa Scores,7,Górna połowa
+15,Absolwenci STEM,na 1000 mieszkańców,8,10
+15,Umiejętności obecnej siły roboczej,wynik od 1-100,9,45
+15,Inwestycje,% PKB,10,Górna połowa
+15,Badania i rozwój,% PKB,11,1 kwartał
+15,Wolność demokratyczna,wynik od 1 do 7,12,Górna połowa
+15,Praworządność,wynik od 0 do 1,13,Górna połowa
+15,Globalny indeks konkurencyjności,Ranga,14,Górna połowa
+15,Indeks efektywności środowiskowej,Ranga,15,Górna połowa
+16,Crescita del PIL,% - Media su 5 anni,1,"0,04"
+16,Tassi di disoccupazione,15-64 anni,2,<12%
+16,Crescita dell'occupazione,% rispetto all'anno precedente,3,"2,5% all'anno"
+16,Esporta in crescita,% - prezzi attuali,4,> 10% all'anno
+16,Rating del credito,S&P,5,BBB
+16,Investimenti diretti esteri,% del PIL,6,> 5%
+16,Formazione scolastica,Pisa Scores,7,Metà superiore
+16,Laureati STEM,per 1000 abitanti,8,10
+16,Competenze della forza lavoro attuale,punteggio da 1-100,9,45
+16,Investimenti,% del PIL,10,Metà superiore
+16,Ricerca e sviluppo,% del PIL,11,1 ° quarto
+16,Libertà democratica,punteggio da 1 a 7,12,Metà superiore
+16,Norma di legge,punteggio da 0 a 1,13,Metà superiore
+16,Indice di competitività globale,Rango,14,Metà superiore
+16,Indice di prestazione ambientale,Rango,15,Metà superiore
+17,Groei van het BBP,% - gemiddeld over 5 jaar,1,"0,04"
+17,Werkloosheidscijfers,15-64 jaar,2,<12%
+17,Groei van de werkgelegenheid,% van vorig jaar,3,"2,5% per jaar"
+17,Groei export,% - huidige prijzen,4,> 10% per jaar
+17,Kredietwaardigheid,S&P,5,BBB
+17,Directe buitenlandse investeringen,% van het BBP,6,> 5%
+17,Opleiding,Pisa scoort,7,Bovenste helft
+17,STEM-afgestudeerden,per 1000 inwoners,8,10
+17,Vaardigheden van het huidige personeelsbestand,score van 1-100,9,45
+17,Investeringen,% van het BBP,10,Bovenste helft
+17,Onderzoek en ontwikkeling,% van het BBP,11,1e kwartaal
+17,Democratische vrijheid,score van 1 tot 7,12,Bovenste helft
+17,Rechtsstaat,score van 0 tot 1,13,Bovenste helft
+17,Wereldwijde concurrentie-index,Rang,14,Bovenste helft
+17,Milieuprestatie-index,Rang,15,Bovenste helft
+18,La croissance du PIB,% - moyenne sur 5 ans,1,"0,04"
+18,Taux de chômage,15-64 ans,2,<12%
+18,Croissance de l'emploi,% de l'année précédente,3,"2,5% par an"
+18,Croissance des exportations,% - prix actuels,4,> 10% par an
+18,Notation de crédit,S&P,5,BBB
+18,L'investissement étranger direct,% du PIB,6,> 5%
+18,Éducation,Scores de Pise,7,La moitié supérieure
+18,Diplômés en STEM,pour 1000 habitants,8,dix
+18,Compétences de la main-d'œuvre actuelle,score de 1-100,9,45
+18,Investissements,% du PIB,10,La moitié supérieure
+18,Recherche et développement,% du PIB,11,1er trimestre
+18,Liberté démocratique,score de 1 à 7,12,La moitié supérieure
+18,Règle de loi,score de 0 à 1,13,La moitié supérieure
+18,Indice de compétitivité mondiale,Rang,14,La moitié supérieure
+18,Indice de performance environnementale,Rang,15,La moitié supérieure
+19,BNP-vækst,% - 5 års gennemsnit,1,"0,04"
+19,Ledighed,15 - 64 år,2,<12%
+19,Beskæftigelsesvækst,% fra foregående år,3,"2,5% om året"
+19,Eksportvækst,% - aktuelle priser,4,> 10% om året
+19,Kreditvurdering,S&P,5,BBB
+19,Udenlandske direkte investeringer,% af BNP,6,> 5%
+19,Uddannelse,Pisa Scores,7,Øverste halvdel
+19,STEM kandidater,pr. 1000 indbyggere,8,10
+19,Færdigheder i den nuværende arbejdsstyrke,score fra 1-100,9,45
+19,Investeringer,% af BNP,10,Øverste halvdel
+19,Forskning og udvikling,% af BNP,11,1. kvartal
+19,Demokratisk frihed,score fra 1 til 7,12,Øverste halvdel
+19,Lovregel,score fra 0 til 1,13,Øverste halvdel
+19,Globalt konkurrenceevneindeks,Rang,14,Øverste halvdel
+19,Miljøpræstationsindeks,Rang,15,Øverste halvdel
+20,BNP-tillväxt,% - 5 års genomsnitt,1,"0,04"
+20,Arbetslöshet,15 - 64 år,2,<12%
+20,Sysselsättningstillväxt,% från föregående år,3,"2,5% per år"
+20,Exporttillväxt,% - nuvarande priser,4,> 10% per år
+20,Kreditvärdighet,S&P,5,BBB
+20,Utländska direktinvesteringar,% av BNP,6,> 5%
+20,Utbildning,Pisa Poäng,7,Övre halvan
+20,STEM-studenter,per 1000 invånare,8,10
+20,Färdigheter för nuvarande arbetskraft,poäng från 1-100,9,45
+20,Investeringar,% av BNP,10,Övre halvan
+20,Forskning och utveckling,% av BNP,11,1: a kvartalet
+20,Demokratisk frihet,poäng från 1 till 7,12,Övre halvan
+20,Rättsstatsprincipen,poäng från 0 till 1,13,Övre halvan
+20,Globalt konkurrenskraftindex,Rang,14,Övre halvan
+20,Index för miljöprestanda,Rang,15,Övre halvan
+21,BNP-vekst,% - 5 års gjennomsnitt,1,"0,04"
+21,Arbeidsledigheten,15 - 64 år,2,<12%
+21,Sysselsettingsvekst,% fra året før,3,"2,5% per år"
+21,Eksportvekst,% - nåværende priser,4,> 10% per år
+21,Kredittvurdering,S&P,5,BBB
+21,Utenlandske direkteinvesteringer,% av BNP,6,> 5%
+21,utdanning,Pisa Scores,7,Øvre halvdel
+21,STEM-kandidater,per 1000 innbyggere,8,10
+21,Ferdigheter av nåværende arbeidsstyrke,score fra 1-100,9,45
+21,Investeringer,% av BNP,10,Øvre halvdel
+21,Forskning og utvikling,% av BNP,11,1. kvartal
+21,Demokratisk frihet,score fra 1 til 7,12,Øvre halvdel
+21,Rettssikkerhet,score fra 0 til 1,13,Øvre halvdel
+21,Global konkurranseevneindeks,Rang,14,Øvre halvdel
+21,Miljøytelsesindeks,Rang,15,Øvre halvdel
+22,IKP pieaugums,% - 5 gadu vidējais rādītājs,1,"0,04"
+22,Bezdarba līmenis,15 - 64 gadi,2,<12%
+22,Nodarbinātības pieaugums,% no iepriekšējā gada,3,"2,5% gadā"
+22,Eksporta pieaugums,% - pašreizējās cenas,4,> 10% gadā
+22,Kredītreitings,S&P,5,BBB
+22,Ārvalstu tiešās investīcijas,% no IKP,6,> 5%
+22,Izglītība,Piza rādītāji,7,Augšējā puse
+22,STEM absolventi,uz 1000 iedzīvotājiem,8,10
+22,Pašreizējā darbaspēka prasmes,rezultāts no 1-100,9,45
+22,Investīcijas,% no IKP,10,Augšējā puse
+22,Pētniecība un attīstība,% no IKP,11,1. ceturksnis
+22,Demokrātiskā brīvība,rezultāts no 1 līdz 7,12,Augšējā puse
+22,Tiesiskums,rezultāts no 0 līdz 1,13,Augšējā puse
+22,Globālās konkurētspējas indekss,Rangs,14,Augšējā puse
+22,Vides rādītājs,Rangs,15,Augšējā puse
+23,BVP augimas,% - 5 metų vidurkis,1,"0,04"
+23,Nedarbo lygis,15–64 metai,2,<12%
+23,Užimtumo augimas,% nuo praėjusių metų,3,"2,5% per metus"
+23,Eksporto augimas,% - dabartinės kainos,4,> 10% per metus
+23,Kredito reitingas,S&P,5,BBB
+23,Tiesioginės užsienio investicijos,% BVP,6,> 5%
+23,Švietimas,Pizos rezultatai,7,Viršutinė pusė
+23,STEM absolventai,1000 gyventojų,8,10
+23,Dabartinės darbo jėgos įgūdžiai,rezultatas nuo 1-100,9,45
+23,Investicijos,% BVP,10,Viršutinė pusė
+23,Moksliniai tyrimai ir plėtra,% BVP,11,1 ketvirtis
+23,Demokratinė laisvė,balas nuo 1 iki 7,12,Viršutinė pusė
+23,Įstatymo taisyklė,rezultatas nuo 0 iki 1,13,Viršutinė pusė
+23,Pasaulio konkurencingumo indeksas,Reitingas,14,Viršutinė pusė
+23,Aplinkosaugos rodiklis,Reitingas,15,Viršutinė pusė
+24,SKP kasv,% - 5 aasta keskmine,1,"0,04"
+24,Töötuse määr,15–64 aastat,2,<12%
+24,Tööhõive kasv,% eelmisest aastast,3,"2,5% aastas"
+24,Ekspordi kasv,% - jooksvad hinnad,4,> 10% aastas
+24,Krediidireiting,S&P,5,BBB
+24,Otsesed välisinvesteeringud,% SKPst,6,> 5%
+24,Haridus,Pisa hinded,7,Ülemine pool
+24,STEMi lõpetajad,1000 elaniku kohta,8,10
+24,Praeguse tööjõu oskused,skoor 1-100,9,45
+24,Investeeringud,% SKPst,10,Ülemine pool
+24,Teadus-ja arendustegevus,% SKPst,11,1. veerand
+24,Demokraatlik vabadus,skoor 1 kuni 7,12,Ülemine pool
+24,Seadus,skoor 0-st 1-ni,13,Ülemine pool
+24,Ülemaailmne konkurentsivõime indeks,Koht,14,Ülemine pool
+24,Keskkonnategevuse indeks,Koht,15,Ülemine pool
+25,El crecimiento del PIB,% - Promedio de 5 años,1,"0,04"
+25,Tasas de desempleo,15 - 64 años,2,<12%
+25,Crecimiento del empleo,% del año anterior,3,"2,5% anual"
+25,Crecimiento de las exportaciones,% - precios actuales,4,> 10% anual
+25,Calificación crediticia,S&P,5,BBB
+25,La inversión extranjera directa,% del PIB,6,> 5%
+25,Educación,Puntuaciones de Pisa,7,Mitad superior
+25,Graduados de STEM,por 1000 habitantes,8,10
+25,Habilidades de la fuerza laboral actual,puntuación de 1-100,9,45
+25,Inversiones,% del PIB,10,Mitad superior
+25,Investigación y desarrollo,% del PIB,11,1er cuarto
+25,Libertad democrática,puntuación de 1 a 7,12,Mitad superior
+25,Imperio de la ley,puntuación de 0 a 1,13,Mitad superior
+25,Índice de Competitividad Global,Rango,14,Mitad superior
+25,Índice de desempeño ambiental,Rango,15,Mitad superior
+26,Crescimento do PIB,% - média de 5 anos,1,"0,04"
+26,Taxas de desemprego,15 - 64 anos,2,<12%
+26,Crescimento do emprego,% do ano anterior,3,"2,5% ao ano"
+26,Crescimento das exportações,% - preços atuais,4,> 10% ao ano
+26,Avaliação de crédito,S&P,5,BBB
+26,Investimento estrangeiro direto,% do PIB,6,> 5%
+26,Educação,Pontuações do Pisa,7,Metade superior
+26,Graduados STEM,por 1000 habitantes,8,10
+26,Habilidades da Força de Trabalho Atual,pontuação de 1-100,9,45
+26,Investimentos,% do PIB,10,Metade superior
+26,Pesquisa e desenvolvimento,% do PIB,11,1 º trimestre
+26,Liberdade democrática,pontuação de 1 a 7,12,Metade superior
+26,Estado de Direito,pontuação de 0 a 1,13,Metade superior
+26,Índice de competitividade global,Classificação,14,Metade superior
+26,Índice de desempenho ambiental,Classificação,15,Metade superior
+27,Fás OTI,% - Meán 5 bliana,1,0.04
+27,Rátaí dífhostaíochta,15 - 64 Bliain,2,<12%
+27,Fás fostaíochta,% ón mbliain roimhe sin,3,2.5% in aghaidh na bliana
+27,Fás onnmhairí,% - praghsanna reatha,4,> 10% in aghaidh na bliana
+27,Rátála creidmheasa,S&P,5,BBB
+27,Infheistíocht Dhíreach Eachtrach,% den OTI,6,> 5%
+27,Oideachas,Scóir Pisa,7,Leath Barr
+27,Céimithe STEM,in aghaidh gach 1000 daonra,8,10
+27,Scileanna an Lucht Oibre Reatha,scór ó 1-100,9,45
+27,Infheistíochtaí,% den OTI,10,Leath Barr
+27,Taighde agus forbairt,% den OTI,11,1ú Ráithe
+27,Saoirse daonlathach,scór ó 1 go 7,12,Leath Barr
+27,Rial An dlí,scór ó 0 go 1,13,Leath Barr
+27,Innéacs iomaíochais dhomhanda,Rang,14,Leath Barr
+27,Innéacs feidhmíochta comhshaoil,Rang,15,Leath Barr
+28,Bruttokansantuotteen kasvu,% - 5 vuoden keskiarvo,1,"0,04"
+28,Työttömyysaste,15-64 vuotta,2,<12%
+28,Työllisyyden kasvu,% edellisvuodesta,3,"2,5% vuodessa"
+28,Viennin kasvu,% - nykyiset hinnat,4,> 10% vuodessa
+28,Luottoluokitus,S&P,5,BBB
+28,Ulkomainen suora sijoitus,% BKT: sta,6,> 5%
+28,Koulutus,Pisa tulokset,7,Yläpuolisko
+28,STEM-tutkinnon suorittaneet,1000 asukasta kohti,8,10
+28,Nykyisen työvoiman taidot,pisteet 1-100,9,45
+28,Sijoitukset,% BKT: sta,10,Yläpuolisko
+28,Tutkimus ja kehitys,% BKT: sta,11,1. vuosineljännes
+28,Demokraattinen vapaus,pisteet 1-7,12,Yläpuolisko
+28,Lain sääntö,pisteet 0-1,13,Yläpuolisko
+28,Globaali kilpailukykyindeksi,Sijoitus,14,Yläpuolisko
+28,Ympäristönsuojelun indeksi,Sijoitus,15,Yläpuolisko
+29,Rast BDP,% - 5-letno povprečje,1,"0,04"
+29,Stopnje brezposelnosti,15 - 64 let,2,<12%
+29,Rast zaposlenosti,% iz prejšnjega leta,3,"2,5% letno"
+29,Rast izvoza,% - trenutne cene,4,> 10% letno
+29,Bonitetna ocena,S&P,5,BBB
+29,Neposredne tuje naložbe,% BDP,6,> 5%
+29,Izobraževanje,Rezultati v Pisi,7,Zgornja polovica
+29,Diplomanti STEM,na 1000 prebivalcev,8,10
+29,Spretnosti trenutne delovne sile,rezultat od 1-100,9,45
+29,Naložbe,% BDP,10,Zgornja polovica
+29,Raziskave in razvoj,% BDP,11,1. četrtina
+29,Demokratična svoboda,ocena od 1 do 7,12,Zgornja polovica
+29,Pravilo zakona,rezultat od 0 do 1,13,Zgornja polovica
+29,Indeks globalne konkurenčnosti,Uvrstitev,14,Zgornja polovica
+29,Indeks okoljske uspešnosti,Uvrstitev,15,Zgornja polovica
+30,Зростання ВВП,% - середнє значення за 5 років,1,"0,04"
+30,Рівень безробіття,15 - 64 роки,2,<12%
+30,Зростання зайнятості,% від попереднього року,3,"2,5% річних"
+30,Зростання експорту,% - поточні ціни,4,> 10% річних
+30,Кредитний рейтинг,S&P,5,BBB
+30,Прямі закордонні інвестиції,% ВВП,6,> 5%
+30,Освіта,Результати в Пізі,7,Верхня половина
+30,Випускники STEM,на 1000 населення,8,10
+30,Навички поточної робочої сили,оцінка від 1-100,9,45
+30,Інвестиції,% ВВП,10,Верхня половина
+30,Дослідження та розробка,% ВВП,11,1-й квартал
+30,Демократична свобода,оцінка від 1 до 7,12,Верхня половина
+30,Верховенство права,оцінка від 0 до 1,13,Верхня половина
+30,Індекс глобальної конкурентоспроможності,Ранг,14,Верхня половина
+30,Індекс екологічних показників,Ранг,15,Верхня половина
+31,მშპ-ს ზრდა,- 5 წლის საშუალო,1,"0,04"
+31,უმუშევრობის დონე,15 - 64 წელი,2,<12%
+31,დასაქმების ზრდა,% წინა წლიდან,3,წელიწადში 2.5%
+31,ექსპორტის ზრდა,% - მიმდინარე ფასები,4,> წელიწადში 10%
+31,საკრედიტო რეიტინგი,S&P,5,BBB
+31,Პირდაპირი უცხოური ინვესტიცია,მშპ-ს%,6,> 5%
+31,Განათლება,პიზას ქულები,7,ზედა ნახევარი
+31,STEM კურსდამთავრებულები,1000 მოსახლეზე,8,10
+31,ამჟამინდელი სამუშაო ძალის უნარები,ანგარიში 1-100-დან,9,45
+31,ინვესტიციები,მშპ-ს%,10,ზედა ნახევარი
+31,Კვლევა და განვითარება,მშპ-ს%,11,1 კვარტალი
+31,დემოკრატიული თავისუფლება,ანგარიშით 1-დან 7-მდე,12,ზედა ნახევარი
+31,Კანონის უზენაესობა,ანგარიში 0-დან 1-მდე,13,ზედა ნახევარი
+31,გლობალური კონკურენტუნარიანობის ინდექსი,რანგი,14,ზედა ნახევარი
+31,გარემოსდაცვითი შესრულების ინდექსი,რანგი,15,ზედა ნახევარი
+32,ՀՆԱ-ի աճ,% - 5 տարվա միջինը,1,"0,04"
+32,Գործազրկության մակարդակները,15 - 64 տարի,2,<12%
+32,Empբաղվածության աճ,% նախորդ տարվա համեմատ,3,Տարեկան 2.5%
+32,Արտահանման աճ,% - ընթացիկ գներ,4,> Տարեկան 10%
+32,Վարկային վարկանիշ,S&P,5,BBB
+32,Օտարերկրյա ուղղակի ներդրումներ,ՀՆԱ-ի%,6,> 5%
+32,Կրթություն,Պիզայի միավորներ,7,Վերևի կեսը
+32,STEM շրջանավարտներ,1000 բնակչի հաշվով,8,10
+32,Ընթացիկ աշխատուժի հմտություններ,հաշիվ 1-100-ից,9,45
+32,Ներդրումներ,ՀՆԱ-ի%,10,Վերևի կեսը
+32,Հետազոտություն և մշակում,ՀՆԱ-ի%,11,1-ին եռամսյակ
+32,Ժողովրդավարական ազատություն,հաշիվ 1-ից 7,12,Վերևի կեսը
+32,Օրենքի գերակայություն,հաշվել 0-ից 1,13,Վերևի կեսը
+32,Համաշխարհային մրցունակության ինդեքս,Աստիճան,14,Վերևի կեսը
+32,Բնապահպանական գործունեության ինդեքս,Աստիճան,15,Վերևի կեսը
+33,Tkabbir tal-PGD,% - Medja ta '5 snin,1,0.04
+33,Rati tal-qgħad,15 - 64 Snin,2,<12%
+33,Żieda fl-impjiegi,% mis-sena ta 'qabel,3,2.5% fis-sena
+33,Esportazzjonijiet tat-tkabbir,% - prezzijiet kurrenti,4,> 10% fis-sena
+33,Klassifikazzjoni tal-kreditu,S&P,5,BBB
+33,Investiment Dirett Barrani,% tal-PGD,6,> 5%
+33,Edukazzjoni,Punteġġi Pisa,7,Nofs Fuq
+33,Gradwati STEM,għal kull 1000 popolazzjoni,8,10
+33,Ħiliet tal-Ħaddiema Kurrenti,skor minn 1-100,9,45
+33,Investimenti,% tal-PGD,10,Nofs Fuq
+33,Riċerka u Żvilupp,% tal-PGD,11,L-1 Kwart
+33,Libertà demokratika,punteġġ minn 1 sa 7,12,Nofs Fuq
+33,Stat tad-dritt,punteġġ minn 0 għal 1,13,Nofs Fuq
+33,Indiċi tal-kompetittività globali,Grad,14,Nofs Fuq
+33,Indiċi tal-prestazzjoni ambjentali,Grad,15,Nofs Fuq
+34,Vöxtur landsframleiðslu,% - 5 ára meðaltal,1,"0,04"
+34,Atvinnuleysi,15 - 64 ára,2,<12%
+34,Vöxtur atvinnu,% frá fyrra ári,3,"2,5% á ári"
+34,Útflutningur vöxtur,% - núverandi verð,4,> 10% á ári
+34,Lánshæfismat,S&P,5,BBB
+34,Bein erlend fjárfesting,% af landsframleiðslu,6,> 5%
+34,Menntun,Pisa skor,7,Efsti helmingur
+34,STEM útskrifast,á hverja 1000 íbúa,8,10
+34,Færni núverandi vinnuafls,skorað frá 1-100,9,45
+34,Fjárfestingar,% af landsframleiðslu,10,Efsti helmingur
+34,Rannsóknir og þróun,% af landsframleiðslu,11,1. ársfjórðungur
+34,Lýðræðislegt frelsi,skora úr 1 í 7,12,Efsti helmingur
+34,Regla laganna,skora úr 0 í 1,13,Efsti helmingur
+34,Alþjóðleg samkeppnisvísitala,Staða,14,Efsti helmingur
+34,Vísitala um afköst umhverfis,Staða,15,Efsti helmingur

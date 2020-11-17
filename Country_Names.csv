@@ -1,0 +1,647 @@
+﻿Language_ID,Country_Native,Country_ID
+1,Albania,1
+1,Bosnia And Herzegovina,6
+1,Poland,33
+1,Bulgaria,7
+1,Romania,35
+1,Croatia,8
+1,Czechia,10
+1,Estonia,12
+1,Hungary,17
+1,Serbia,38
+1,Slovakia,39
+1,Latvia,22
+1,Lithuania,24
+1,Malta,26
+1,North Macedonia,31
+1,Slovenia,40
+1,Montenegro,29
+1,Kosovo,17
+1,Cyprus,9
+2,Албанија,1
+2,Босна И Херцеговина,6
+2,Полска,33
+2,Бугарија,7
+2,Романија,35
+2,Хрватска,8
+2,Чешка,10
+2,Естонија,12
+2,Унгарија,17
+2,Србија,38
+2,Словачка,39
+2,Летонија,22
+2,Литванија,24
+2,Малта,26
+2,Северна Македонија,31
+2,Словенија,40
+2,Црна Гора,29
+2,Косово,17
+2,Кипар,9
+3,Shqipëria,1
+3,Bosnjë Dhe Hercegovinë,6
+3,Polonia,33
+3,Bullgaria,7
+3,Rumania,35
+3,Kroacia,8
+3,Çekia,10
+3,Estonia,12
+3,Hungaria,17
+3,Serbia,38
+3,Sllovakia,39
+3,Letonia,22
+3,Lituania,24
+3,Malta,26
+3,Maqedonia E Veriut,31
+3,Sllovenia,40
+3,Mali I Zi,29
+3,Kosova,17
+3,Qipro,9
+4,Албанија,1
+4,Босна И Херцеговина,6
+4,Пољска,33
+4,Бугарска,7
+4,Румунија,35
+4,Хрватска,8
+4,Чешка,10
+4,Естонија,12
+4,Мађарска,17
+4,Србија,38
+4,Словачка,39
+4,Летонија,22
+4,Литванија,24
+4,Малта,26
+4,Северна Македонија,31
+4,Словенија,40
+4,Црна Гора,29
+4,Косово,17
+4,Кипар,9
+5,Arnavutluk,1
+5,Bosna Hersek,6
+5,Polonya,33
+5,Bulgaristan,7
+5,Romanya,35
+5,Hırvatistan,8
+5,Çekya,10
+5,Estonya,12
+5,Macaristan,17
+5,Sırbistan,38
+5,Slovakya,39
+5,Letonya,22
+5,Litvanya,24
+5,Malta,26
+5,Kuzey Makedonya,31
+5,Slovenya,40
+5,Karadağ,29
+5,Kosova,17
+5,Kıbrıs,9
+6,Αλβανία,1
+6,Βοσνία Και Ερζεγοβίνη,6
+6,Πολωνία,33
+6,Βουλγαρία,7
+6,Ρουμανία,35
+6,Κροατία,8
+6,Τσεχία,10
+6,Εσθονία,12
+6,Ουγγαρία,17
+6,Σερβία,38
+6,Σλοβακία,39
+6,Λετονία,22
+6,Λιθουανία,24
+6,Μάλτα,26
+6,Βόρεια Μακεδονία,31
+6,Σλοβενία,40
+6,Μαυροβούνιο,29
+6,Κοσσυφοπέδιο,17
+6,Κύπρος,9
+7,Albánia,1
+7,Bosznia És Hercegovina,6
+7,Lengyelország,33
+7,Bulgária,7
+7,Románia,35
+7,Horvátország,8
+7,Csehország,10
+7,Észtország,12
+7,Magyarország,17
+7,Szerbia,38
+7,Szlovákia,39
+7,Lettország,22
+7,Litvánia,24
+7,Málta,26
+7,Észak-Macedónia,31
+7,Szlovénia,40
+7,Montenegró,29
+7,Koszovó,17
+7,Ciprus,9
+8,Albanien,1
+8,Bosnien Und Herzegowina,6
+8,Polen,33
+8,Bulgarien,7
+8,Rumänien,35
+8,Kroatien,8
+8,Tschechien,10
+8,Estland,12
+8,Ungarn,17
+8,Serbien,38
+8,Slowakei,39
+8,Lettland,22
+8,Litauen,24
+8,Malta,26
+8,Nordmakedonien,31
+8,Slowenien,40
+8,Montenegro,29
+8,Kosovo,17
+8,Zypern,9
+9,Албания,1
+9,Босния И Герцеговина,6
+9,Польша,33
+9,Болгария,7
+9,Румыния,35
+9,Хорватия,8
+9,Чехия,10
+9,Эстония,12
+9,Венгрия,17
+9,Сербия,38
+9,Словакия,39
+9,Латвия,22
+9,Литва,24
+9,Мальта,26
+9,Северная Македония,31
+9,Словения,40
+9,Черногория,29
+9,Косово,17
+9,Кипр,9
+10,Албания,1
+10,Босна И Херцеговина,6
+10,Полша,33
+10,България,7
+10,Румъния,35
+10,Хърватия,8
+10,Чехия,10
+10,Естония,12
+10,Унгария,17
+10,Сърбия,38
+10,Словакия,39
+10,Латвия,22
+10,Литва,24
+10,Малта,26
+10,Северна Македония,31
+10,Словения,40
+10,Черна Гора,29
+10,Косово,17
+10,Кипър,9
+11,Albanija,1
+11,Bosna I Hercegovina,6
+11,Poljska,33
+11,Bugarska,7
+11,Rumunjska,35
+11,Hrvatska,8
+11,Češka,10
+11,Estonija,12
+11,Mađarska,17
+11,Srbija,38
+11,Slovačka,39
+11,Latvija,22
+11,Litva,24
+11,Malta,26
+11,Sjeverna Makedonija,31
+11,Slovenija,40
+11,Crna Gora,29
+11,Kosovo,17
+11,Cipar,9
+12,Albania,1
+12,Bosnia Si Hertegovina,6
+12,Polonia,33
+12,Bulgaria,7
+12,România,35
+12,Croaţia,8
+12,Cehia,10
+12,Estonia,12
+12,Ungaria,17
+12,Serbia,38
+12,Slovacia,39
+12,Letonia,22
+12,Lituania,24
+12,Malta,26
+12,Macedonia De Nord,31
+12,Slovenia,40
+12,Muntenegru,29
+12,Kosovo,17
+12,Cipru,9
+13,Albánsko,1
+13,Bosna A Hercegovina,6
+13,Poľsko,33
+13,Bulharsko,7
+13,Rumunsko,35
+13,Chorvátsko,8
+13,Česko,10
+13,Estónsko,12
+13,Maďarsko,17
+13,Srbsko,38
+13,Slovensko,39
+13,Lotyšsko,22
+13,Litva,24
+13,Malta,26
+13,Severné Macedónsko,31
+13,Slovinsko,40
+13,Čierna Hora,29
+13,Kosovo,17
+13,Cyprus,9
+14,Albánie,1
+14,Bosna A Hercegovina,6
+14,Polsko,33
+14,Bulharsko,7
+14,Rumunsko,35
+14,Chorvatsko,8
+14,Česko,10
+14,Estonsko,12
+14,Maďarsko,17
+14,Srbsko,38
+14,Slovensko,39
+14,Lotyšsko,22
+14,Litva,24
+14,Malta,26
+14,Severní Makedonie,31
+14,Slovinsko,40
+14,Černá Hora,29
+14,Kosovo,17
+14,Kypr,9
+15,Albania,1
+15,Bośnia I Hercegowina,6
+15,Polska,33
+15,Bułgaria,7
+15,Rumunia,35
+15,Chorwacja,8
+15,Czechy,10
+15,Estonia,12
+15,Węgry,17
+15,Serbia,38
+15,Słowacja,39
+15,Łotwa,22
+15,Litwa,24
+15,Malta,26
+15,Macedonia Północna,31
+15,Słowenia,40
+15,Czarnogóra,29
+15,Kosowo,17
+15,Cypr,9
+16,Albania,1
+16,Bosnia Erzegovina,6
+16,Polonia,33
+16,Bulgaria,7
+16,Romania,35
+16,Croazia,8
+16,Czechia,10
+16,Estonia,12
+16,Ungheria,17
+16,Serbia,38
+16,Slovacchia,39
+16,Lettonia,22
+16,Lituania,24
+16,Malta,26
+16,Macedonia Del Nord,31
+16,Slovenia,40
+16,Montenegro,29
+16,Kosovo,17
+16,Cipro,9
+17,Albanië,1
+17,Bosnië-Herzegovina,6
+17,Polen,33
+17,Bulgarije,7
+17,Roemenië,35
+17,Kroatië,8
+17,Tsjechië,10
+17,Estland,12
+17,Hongarije,17
+17,Servië,38
+17,Slowakije,39
+17,Letland,22
+17,Litouwen,24
+17,Malta,26
+17,Noord-Macedonië,31
+17,Slovenië,40
+17,Montenegro,29
+17,Kosovo,17
+17,Cyprus,9
+18,Albanie,1
+18,Bosnie Herzégovine,6
+18,Pologne,33
+18,Bulgarie,7
+18,Roumanie,35
+18,Croatie,8
+18,Tchéquie,10
+18,Estonie,12
+18,Hongrie,17
+18,Serbie,38
+18,Slovaquie,39
+18,Lettonie,22
+18,Lituanie,24
+18,Malte,26
+18,Macédoine Du Nord,31
+18,Slovénie,40
+18,Monténégro,29
+18,Kosovo,17
+18,Chypre,9
+19,Albanien,1
+19,Bosnien-Hercegovina,6
+19,Polen,33
+19,Bulgarien,7
+19,Rumænien,35
+19,Kroatien,8
+19,Tjekkiet,10
+19,Estland,12
+19,Ungarn,17
+19,Serbien,38
+19,Slovakiet,39
+19,Letland,22
+19,Litauen,24
+19,Malta,26
+19,Nordmakedonien,31
+19,Slovenien,40
+19,Montenegro,29
+19,Kosovo,17
+19,Cypern,9
+20,Albanien,1
+20,Bosnien Och Hercegovina,6
+20,Polen,33
+20,Bulgarien,7
+20,Rumänien,35
+20,Kroatien,8
+20,Tjeckien,10
+20,Estland,12
+20,Ungern,17
+20,Serbien,38
+20,Slovakien,39
+20,Lettland,22
+20,Litauen,24
+20,Malta,26
+20,Nordmakedonien,31
+20,Slovenien,40
+20,Montenegro,29
+20,Kosovo,17
+20,Cypern,9
+21,Albania,1
+21,Bosnia Og Herzegovina,6
+21,Polen,33
+21,Bulgaria,7
+21,Romania,35
+21,Kroatia,8
+21,Tsjekkia,10
+21,Estland,12
+21,Ungarn,17
+21,Serbia,38
+21,Slovakia,39
+21,Latvia,22
+21,Litauen,24
+21,Malta,26
+21,Nord-Makedonia,31
+21,Slovenia,40
+21,Montenegro,29
+21,Kosovo,17
+21,Kypros,9
+22,Albānija,1
+22,Bosnija Un Hercegovina,6
+22,Polija,33
+22,Bulgārija,7
+22,Rumānija,35
+22,Horvātija,8
+22,Čehija,10
+22,Igaunija,12
+22,Ungārija,17
+22,Serbija,38
+22,Slovākija,39
+22,Latvija,22
+22,Lietuva,24
+22,Malta,26
+22,Ziemeļmaķedonija,31
+22,Slovēnija,40
+22,Melnkalne,29
+22,Kosova,17
+22,Kipra,9
+23,Albanija,1
+23,Bosnija Ir Hercegovina,6
+23,Lenkija,33
+23,Bulgarija,7
+23,Rumunija,35
+23,Kroatija,8
+23,Čekija,10
+23,Estija,12
+23,Vengrija,17
+23,Serbija,38
+23,Slovakija,39
+23,Latvija,22
+23,Lietuva,24
+23,Malta,26
+23,Šiaurės Makedonija,31
+23,Slovėnija,40
+23,Juodkalnija,29
+23,Kosovas,17
+23,Kipras,9
+24,Albaania,1
+24,Bosnia Ja Hertsegoviina,6
+24,Poola,33
+24,Bulgaaria,7
+24,Rumeenia,35
+24,Horvaatia,8
+24,Tšehhi,10
+24,Eesti,12
+24,Ungari,17
+24,Serbia,38
+24,Slovakkia,39
+24,Läti,22
+24,Leedu,24
+24,Malta,26
+24,Põhja-Makedoonia,31
+24,Sloveenia,40
+24,Montenegro,29
+24,Kosovo,17
+24,Küpros,9
+25,Albania,1
+25,Bosnia Y Herzegovina,6
+25,Polonia,33
+25,Bulgaria,7
+25,Rumania,35
+25,Croacia,8
+25,Chequia,10
+25,Estonia,12
+25,Hungría,17
+25,Serbia,38
+25,Eslovaquia,39
+25,Letonia,22
+25,Lituania,24
+25,Malta,26
+25,Macedonia Del Norte,31
+25,Eslovenia,40
+25,Montenegro,29
+25,Kosovo,17
+25,Chipre,9
+26,Albânia,1
+26,Bósnia E Herzegovina,6
+26,Polônia,33
+26,Bulgária,7
+26,Romênia,35
+26,Croácia,8
+26,Czechia,10
+26,Estônia,12
+26,Hungria,17
+26,Sérvia,38
+26,Eslováquia,39
+26,Letônia,22
+26,Lituânia,24
+26,Malta,26
+26,Macedônia Do Norte,31
+26,Eslovênia,40
+26,Montenegro,29
+26,Kosovo,17
+26,Chipre,9
+27,Albáin,1
+27,An Bhoisnia Agus Heirseagaivéin,6
+27,An Pholainn,33
+27,An Bhulgáir,7
+27,An Rómáin,35
+27,An Chróit,8
+27,Seicis,10
+27,An Eastóin,12
+27,An Ungáir,17
+27,An Tseirbia,38
+27,An Tslóvaic,39
+27,An Laitvia,22
+27,An Liotuáin,24
+27,Málta,26
+27,Macadóine Thuaidh,31
+27,An Tslóivéin,40
+27,Montainéagró,29
+27,An Chosaiv,17
+27,An Chipir,9
+28,Albania,1
+28,Bosnia Ja Hertsegovina,6
+28,Puola,33
+28,Bulgaria,7
+28,Romania,35
+28,Kroatia,8
+28,Tšekki,10
+28,Viro,12
+28,Unkari,17
+28,Serbia,38
+28,Slovakia,39
+28,Latvia,22
+28,Liettua,24
+28,Malta,26
+28,Pohjois-Makedonia,31
+28,Slovenia,40
+28,Montenegro,29
+28,Kosovo,17
+28,Kypros,9
+29,Albanija,1
+29,Bosna In Hercegovina,6
+29,Poljska,33
+29,Bolgarija,7
+29,Romunija,35
+29,Hrvaška,8
+29,Češka,10
+29,Estonija,12
+29,Madžarska,17
+29,Srbija,38
+29,Slovaška,39
+29,Latvija,22
+29,Litva,24
+29,Malta,26
+29,Severna Makedonija,31
+29,Slovenija,40
+29,Črna Gora,29
+29,Kosovo,17
+29,Ciper,9
+30,Албанія,1
+30,Боснія І Герцеговина,6
+30,Польща,33
+30,Болгарія,7
+30,Румунія,35
+30,Хорватія,8
+30,Чехія,10
+30,Естонія,12
+30,Угорщина,17
+30,Сербія,38
+30,Словаччина,39
+30,Латвія,22
+30,Литва,24
+30,Мальта,26
+30,Північна Македонія,31
+30,Словенія,40
+30,Чорногорія,29
+30,Косово,17
+30,Кіпр,9
+31,ალბანეთი,1
+31,ბოსნია და ჰერცოგოვინა,6
+31,პოლონეთი,33
+31,ბულგარეთი,7
+31,რუმინეთი,35
+31,ხორვატია,8
+31,ჩეხეთი,10
+31,ესტონეთი,12
+31,უნგრეთი,17
+31,სერბეთი,38
+31,სლოვაკეთი,39
+31,ლატვია,22
+31,ლიტვა,24
+31,მალტა,26
+31,ჩრდილოეთ მაკედონია,31
+31,სლოვენია,40
+31,მონტენეგრო,29
+31,კოსოვო,17
+31,კვიპროსი,9
+32,Ալբանիա,1
+32,Բոսնիա Եւ Հերցեգովինա,6
+32,Լեհաստան,33
+32,Բուլղարիա,7
+32,Ռումինիա,35
+32,Խորվաթիա,8
+32,Չեխիա,10
+32,Էստոնիա,12
+32,Հունգարիա,17
+32,Սերբիա,38
+32,Սլովակիա,39
+32,Լատվիա,22
+32,Լիտվա,24
+32,Մալթա,26
+32,Հյուսիսային Մակեդոնիա,31
+32,Սլովենիա,40
+32,Չեռնոգորիա,29
+32,Կոսովո,17
+32,Կիպրոս,9
+33,Albanija,1
+33,Il-Bożnja U Ħerzegovina,6
+33,Il-Polonja,33
+33,Bulgarija,7
+33,Ir-Rumanija,35
+33,Il-Kroazja,8
+33,Ċekja,10
+33,L-Estonja,12
+33,L-Ungerija,17
+33,Is-Serbja,38
+33,Is-Slovakkja,39
+33,Il-Latvja,22
+33,Il-Litwanja,24
+33,Malta,26
+33,Il-Maċedonja Tat-Tramuntana,31
+33,Is-Slovenja,40
+33,Montenegro,29
+33,Il-Kosovo,17
+33,Ċipru,9
+34,Albanía,1
+34,Bosnía Og Hersegóvína,6
+34,Pólland,33
+34,Búlgaría,7
+34,Rúmenía,35
+34,Króatía,8
+34,Tékkland,10
+34,Eistland,12
+34,Ungverjalandi,17
+34,Serbía,38
+34,Slóvakía,39
+34,Lettland,22
+34,Litháen,24
+34,Malta,26
+34,Norður-Makedónía,31
+34,Slóvenía,40
+34,Svartfjallaland,29
+34,Kosovo,17
+34,Kýpur,9
